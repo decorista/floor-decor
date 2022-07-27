@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://decorista.github.io/floor-decor/sitemapx.xml
